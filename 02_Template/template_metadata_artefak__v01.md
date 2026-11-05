@@ -4,7 +4,7 @@ Pertemuan           : Pertama
 Sumber skenario     : Modul
 Jenis/status        : latihan
 Kakas               : Drawio
-Pembuat             : 2406072
+Pembuat             : 2406047
 Versi dan tanggal   : v01. 02-10-2026
 Asumsi/pertanyaan   : -
 Pemeriksaan         : -
