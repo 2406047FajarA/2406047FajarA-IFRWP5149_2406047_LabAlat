@@ -17,3 +17,18 @@ Nama : Fajar Alamsyah
 NIM : 2406047
 Pertemuan 2
 >>>>>>> 044e2b0ee9abc6c84b92803562cac7147557d3b9
+
+Hi 👋, I'm 2406047_Fajar_Alamsyah
+Praktikum Analisis Desain Berorientasi Objek
+
+    🌱 I'm currently learning PERTEMUAN 5 SKENARIO USE CASE: DARI DIAGRAM KE LANGKAH KEGIATAN
+
+    🌱 I'm currently learning PERTEMUAN 6 Diagram Activity Diagram
+
+    📫 How to reach me 2406047@itg.ac.id
+
+    ⚡ Fun fact i am not daijobu
+
+Languages and Tools:
+
+cplusplus mariadb php python 
