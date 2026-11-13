@@ -4,7 +4,7 @@ Pertemuan               : 02
 Sumber kebutuhan        : LAB-R01; LAB-R02
 Jenis/status            : Use case diagram / LATIHAN NOTASI
 Kakas                   : Draw.io
-Pembuat                 : Nabil Muhammad Ramadhan 2406072
+Pembuat                 : Fajar Alamsyah 2406047
 Versi dan tanggal       : v01 / 09-10-2026
 Asumsi                  : Hak akses sesuai; autentikasi di luar latihan
 Pemeriksaan             : [hasil review]

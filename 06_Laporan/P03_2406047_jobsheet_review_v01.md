@@ -16,10 +16,10 @@ Laporan ini mencatat temuan kesalahan pemodelan notasi UML Use Case Diagram sert
 
 | No | Temuan | Perbaikan yang Diperlukan | Alasan |
 | :-: | :--- | :--- | :--- |
-| **1** | Aktor Mahasiswa diletakkan di dalam batas sistem. | Pindahkan posisi aktor Mahasiswa ke luar kotak batas sistem. | Aktor mewakili entitas eksternal yang berinteraksi dengan sistem, sehingga posisinya harus selalu berada di luar batas sistem[cite: 3]. |
-| **2** | Fungsi Lihat jadwal kuliah digambar sebagai kotak biasa. | Ubah simbol fungsi menjadi bentuk elips (oval). | Sesuai standar notasi UML, fungsionalitas Use Case digambarkan dengan simbol elips[cite: 2, 6]. |
-| **3** | Aktor Mahasiswa dihubungkan dengan Kelola jadwal kuliah. | Hapus garis penghubung antara aktor Mahasiswa dengan use case Kelola jadwal kuliah. | Mahasiswa tidak memiliki hak akses/wewenang untuk mengelola jadwal kuliah[cite: 14]. |
-| **4** | Identitas diagram menggunakan judul sistem laboratorium. | Ubah judul batas sistem menjadi yang relevan (misal: Sistem Informasi Akademik). | Judul batas sistem harus akurat mencerminkan ruang lingkup sistem yang sedang dibahas[cite: 6, 14]. |
+| **1** | Aktor Mahasiswa diletakkan di dalam batas sistem.        | Pindahkan posisi aktor Mahasiswa ke luar kotak batas sistem. | Aktor mewakili entitas eksternal yang berinteraksi dengan sistem, sehingga posisinya harus selalu berada di luar batas sistem[cite: 3]. |
+| **2** | Fungsi Lihat jadwal kuliah digambar sebagai kotak biasa. | Ubah simbol fungsi menjadi bentuk elips (oval). | Sesuai standar notasi UML, fungsionalitas Use Case digambarkan dengan simbol elips[cite: 2, 6].                                                      |
+| **3** | Aktor Mahasiswa dihubungkan dengan Kelola jadwal kuliah. | Hapus garis penghubung antara aktor Mahasiswa dengan use case Kelola jadwal kuliah. | Mahasiswa tidak memiliki hak akses/wewenang untuk mengelola jadwal kuliah[cite: 14].                             |
+| **4** | Identitas diagram menggunakan judul sistem laboratorium. | Ubah judul batas sistem menjadi yang relevan (misal: Sistem Informasi Akademik). | Judul batas sistem harus akurat mencerminkan ruang lingkup sistem yang sedang dibahas[cite: 6, 14].                 |
 
 ---
 
